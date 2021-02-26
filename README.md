@@ -1,1 +1,1 @@
-# GRIDS-Tutorials
+# GRIDS Tutorials
