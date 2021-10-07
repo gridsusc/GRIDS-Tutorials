@@ -1,0 +1,24 @@
+h1{
+  color: #6734D1;
+}
+.grids-nav {
+  background-color: var(--bs-indigo);
+}
+.grids-btn {
+  background-color: var(--bs-indigo);
+  color:white;
+}
+
+.grids-btn:hover {
+  background-color: #dfc5fe;
+}
+.grids-dark {
+  background-color: var(--bs-indigo);
+}
+.grids-light {
+  background-color: #dfc5fe
+}
+
+#main {
+  background-color: #dfc5fe
+}
